@@ -1,7 +1,4 @@
 package employee;
-//jkgfdgj
-//jlfhgfg
-//jkfhg
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
